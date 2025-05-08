@@ -1,0 +1,14 @@
+{
+  "name": "petstore-playwright",
+  "version": "1.0.0",
+  "description": "Playwright project for Swagger Petstore API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./tests"
+  },
+  "author": "Ashimu B.",
+  "license": "MIT",
+  "dependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
