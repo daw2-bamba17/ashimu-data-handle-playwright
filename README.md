@@ -15,7 +15,7 @@
 <br>
 <div align="center" color="white">
 <h1>command to run the test</h1>
-  <div>npx playwrite test</div>
+  <div>npm start</div>
 <br>
 <br>
 </div>
